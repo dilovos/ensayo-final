@@ -1,0 +1,11 @@
+header {
+    background-color: rgb(244, 244, 120);
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+    margin: 10;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+
